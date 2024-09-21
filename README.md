@@ -34,7 +34,7 @@ pip install -r GFPGAN/requirements.txt
 ```[bash]
 python fix_torchvision.py
 ``` 
-⚡ Quick Inference
+# ⚡ Quick Inference
 ```[bash]
 python main.py -i old_images_ori --output_dir my_result --upscale 2 --version 1.4
 ``` 
