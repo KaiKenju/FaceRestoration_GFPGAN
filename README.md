@@ -1,12 +1,11 @@
 
 
 🌎 English | [Vietnamese](README_vn.md)
-
-<img src="my_result/cmp/16864688-290777354672479-5494028598530650668-n-1487686959579-1522248859846848960801_00.png " style="width: 50%;">
-<img src="my_result/cmp/14B_00.png" style="width: 50%;">
-<img src="my_result/cmp/bao-gia-phuc-che-anh-cu-1_00.png" style="width: 50%;">
-
-
+<p align="center">
+  <img src="my_result/cmp/16864688-290777354672479-5494028598530650668-n-1487686959579-1522248859846848960801_00.png " style="width: 70%;">
+  <img src="my_result/cmp/14B_00.png" style="width: 70%;">
+  <img src="my_result/cmp/bao-gia-phuc-che-anh-cu-1_00.png" style="width: 70%;">
+</p>
 # 🔧 Dependencies
 
 - Python >= 3.7 (Recommend to use Anaconda or Miniconda, Default: Miniconda)
