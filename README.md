@@ -1,11 +1,33 @@
 
+<div align="center">
+  <img alt="logo" src="assets/logo_repo.jpg" width=120 height=120>
 
-🌎 English | [Vietnamese](README_vn.md)
-<p align="center">
-  <img src="my_result/cmp/16864688-290777354672479-5494028598530650668-n-1487686959579-1522248859846848960801_00.png " style="width: 70%;">
-  <img src="my_result/cmp/14B_00.png" style="width: 70%;">
-  <img src="my_result/cmp/bao-gia-phuc-che-anh-cu-1_00.png" style="width: 70%;">
-</p>
+  🌎 English | [Vietnamese](README_vn.md)
+  ### :book: GFP-GAN: Towards Real-World Blind Face Restoration with Generative Facial Prior
+
+  > [[Paper](https://arxiv.org/abs/2101.04061)] &emsp; [[Project Page](https://xinntao.github.io/projects/gfpgan)] &emsp; [Demo] <br>
+  > [Xintao Wang](https://xinntao.github.io/), [Yu Li](https://yu-li.github.io/), [Honglun Zhang](https://scholar.google.com/citations?hl=en&user=KjQLROoAAAAJ), [Ying Shan](https://scholar.google.com/citations?user=4oXBp9UAAAAJ&hl=en) <br>
+  > Applied Research Center (ARC), Tencent PCG
+
+  <p align="center">
+    <img src="my_result/cmp/16864688-290777354672479-5494028598530650668-n-1487686959579-1522248859846848960801_00.png " style="width: 70%;">
+    <img src="my_result/cmp/14B_00.png" style="width: 70%;">
+    <img src="my_result/cmp/bao-gia-phuc-che-anh-cu-1_00.png" style="width: 70%;">
+  </p>
+
+---
+
+  
+</div>
+
+<br>
+
+  > **Related Projects**：
+  >
+  > - [Vietnamese_OCR_documents](https://github.com/KaiKenju/Vietnamese_OCR_documents): is used to convert text from images or scanned documents into digital format, allowing automatic processing and analysis of text data. This technology is very useful in extracting information from Vietnamese documents, making information searching and management easier and more efficient.
+
+<br>
+
 # 🔧 Dependencies
 
 - Python >= 3.7 (Recommend to use Anaconda or Miniconda, Default: Miniconda)
